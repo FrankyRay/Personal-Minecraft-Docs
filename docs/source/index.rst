@@ -19,3 +19,4 @@ Contents
 .. toctree::
 
    test.md
+   Directives.md
