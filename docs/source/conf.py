@@ -30,9 +30,9 @@ templates_path = ['_templates']
 
 source_suffix = {
     '.rst': 'restructuredtext',
-    '.md': 'markdown'
+    '.txt': 'markdown',
+    '.md': 'markdown',
 }
-
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
