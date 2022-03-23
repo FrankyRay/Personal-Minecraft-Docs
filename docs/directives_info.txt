@@ -1,0 +1,15 @@
+Admonition - Blue
+Note - Blue
+
+Green
+- Tip
+- Important
+
+Yellow
+- Attention
+- Caution
+- Warning
+
+Red
+- Danger
+- Error
